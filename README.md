@@ -7,4 +7,9 @@ A ray-tracer written in Python 2.7
 
 ## Conclusions
 
-Vector mathematics is very useful.
+Vector math and trigonometry are very useful.
+- Sin
+- Inverse Cosine
+- Sum Vectors
+- Dot Product
+- Magnitude Vector
