@@ -11,6 +11,9 @@ A ray-tracer written in Python 2.7
 - Vector math and trigonometry are very useful.  For example, I used:
   - Sin
   - Inverse Cosine
+  - Tangent
+  - PI
+  - Angles in radians
   - Sum Vectors
   - Dot Product
   - Magnitude Vector
