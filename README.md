@@ -12,9 +12,12 @@ A ray-tracer written in Python 2.7
   - Sin
   - Inverse Cosine
   - Tangent
+  - Distance formula
   - Pi
   - Angles in radians
-  - Sum Vectors
-  - Dot Product
-  - Magnitude Vector
+  - Sum of vectors
+  - Dot product
+  - Magnitude of vector
+  - Position vector
+  - Direction vector
 - Studying in math class is worth-while
