@@ -12,7 +12,7 @@ A ray-tracer written in Python 2.7
   - Sin
   - Inverse Cosine
   - Tangent
-  - PI
+  - Pi
   - Angles in radians
   - Sum Vectors
   - Dot Product
