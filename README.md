@@ -7,9 +7,11 @@ A ray-tracer written in Python 2.7
 
 ## Conclusions
 
-Vector math and trigonometry are very useful.
-- Sin
-- Inverse Cosine
-- Sum Vectors
-- Dot Product
-- Magnitude Vector
+- Python is not built for ray-tracing
+- Vector math and trigonometry are very useful.  For example, I used:
+  - Sin
+  - Inverse Cosine
+  - Sum Vectors
+  - Dot Product
+  - Magnitude Vector
+- Studying in math class is worth-while
