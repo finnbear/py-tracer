@@ -20,4 +20,5 @@ A ray-tracer written in Python 2.7
   - Magnitude of vector
   - Position vector
   - Direction vector
+  - Sigmoid function
 - Studying in math class is worth-while
