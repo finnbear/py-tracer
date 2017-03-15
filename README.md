@@ -15,10 +15,11 @@ Very work in progress, reflections and shadows will be added soon
   - Tangent
   - Distance formula
   - Pi
-  - Angles in radians
-  - Sum of vectors
-  - Dot product
-  - Magnitude of vector
+  - Distance from a line to a point
+    - Angles in radians
+    - Sum of vectors
+    - Dot product
+    - Magnitude of vector
   - Position vector
   - Direction vector
   - Linear interpolation
