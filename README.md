@@ -11,6 +11,13 @@ Very work in progress, reflections and shadows will be added soon
 - 3D camera projection
 - Spheres
 
+## Planned Additions
+
+- Reflections
+- Shadows
+- Refractions
+- Additional objects
+
 ## Conclusions
 
 - Python is not built for ray-tracing
