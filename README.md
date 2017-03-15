@@ -6,6 +6,11 @@ A ray-tracer written in Python 2.7
 ![Image Could Not Load.](/frame.png "Some Simple Spheres")  
 Very work in progress, reflections and shadows will be added soon
 
+## Features
+
+- 3D camera projection
+- Spheres
+
 ## Conclusions
 
 - Python is not built for ray-tracing
