@@ -4,7 +4,7 @@ A ray-tracer written in Python 2.7
 ## Examples
 
 ![Image Could Not Load.](/frame.png "Some Simple Spheres")  
-Very work in progress, reflections will be added soon
+Very work in progress, reflections and shadows will be added soon
 
 ## Conclusions
 
